@@ -1,0 +1,44 @@
+body{
+    padding: 30px;
+    background-color: rgb(29, 29, 29);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.div1{
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+}
+.div2{
+    display: inline-block;   
+}
+button{
+    border: none;
+    background-color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+}
+button:hover{
+    border: none;
+    background-color: black;
+    color: white;
+}
+input{
+    margin: 20px 0 0 0;
+    padding: 10px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+
+}
+img{
+    margin: 10px;
+    border-radius: 30px;
+    background-color: lightgray;
+    height: 300px;
+    width: 500px;
+    
+}
